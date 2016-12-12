@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+	<title></title>
+	<link rel="stylesheet" href="simorgh.css">
+		<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<!-- Bootstrap -->
+    	<link href="css/bootstrap.css" rel="stylesheet">
+    	<link rel="stylesheet" href="font-awesome-4.3.0/css/font-awesome.css">
+    	<script src="js/respond.js"></script>
+</head>
+<body>
+<div class="container">
+			<div class="row">
+					<nav class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="collapse navbar-collapse" id="collapse">
+							<ul class="nav navbar-nav">
+								<li>
+								<a href="#landon" data-toggle="modal">
+								<i class="fa fa-envelope" style="padding-right:15px;"></i>ارتباط با ما
+								</a>
+								</li>
+								<li><a href="infogame.html"><i class="fa fa-gamepad" style="padding-right:15px;"></i>توضیح بازی</a></li>
+								<li><a href="simorgh.html"><i class="fa fa-home" style="padding-right:15px;"></i>خانه</a></li>
+							</ul>
+							<ul id="icons">
+								<li><a href=""><i class="fa fa-instagram"></i></a></li>
+								<li><a href=""><i class="fa fa-paper-plane"></i></a></li>
+								<li><a href=""><i class="fa fa-github"></i></a></li>
+							</ul>
+						</div>
+				    </nav>
+			</div>
+
+			<div class="row">
+				<header class="col-md-12 col-xs-12">
+					<img src="" alt="">
+				</header>
+			</div>
+
+			<div class="row">
+				<section class="col-md-12 col-xs-12">
+					<article  class="col-md-8 col-xs-8" id="chs1">
+						<h2>سيمرغ چيست؟</h2>
+						<p>سيمرغ ، برگرفته از داستان سيمرغِ منطق الطير، نام پروژه ی بازي ای است كه توسط گروهي از اعضاي انجمن علمي كامپيوتر دانشگاه تهران مركز در حال ساخت مي باشد.</p>
+					</article>
+					<article  class="col-md-4 col-xs-4" id="chs2">
+						<img src="img/photo_2016-11-26_23-59-26.jpg">
+					</article>
+				</section>
+			</div>
+			<div class="row">
+				<section class="col-md-12 col-xs-12">
+					<article  class="col-md-8 col-xs-8" id="chs1">
+						<h2>هدف از ساخت </h2>
+						<p>با توجه به گسترش بازي هاي درون خطي (inline games) ، تصميم گرفتيم ما نيز به همراه يكديگر ، در همين زمينه، بازي طراحي و عرضه كنيم! 
+از ديگر اهداف اين پروژه كمك به يادگيري و افزايش تسلط بر برخي مباحث مرتبط به رشته ي تحصيلي دانشجويان حاضر در اين گروه مي باشد.
+						</p>
+					</article>
+					<article  class="col-md-4 col-xs-4" id="chs2">
+						<img src="img/download.jpg" alt="simurgh">
+					</article>
+				</section>
+			</div>
+			<div class="row">
+				<section class="col-md-12 col-xs-12">
+						<h2>چرا سيمرغ؟</h2>
+						<p>
+							
+							داستان سيمرغ در منطق الطير يكي از زيباترين نمونه هاي داستان سرايي عرفاني است.
+از اين قرار است كه مرغان جهان گرد هم مي آيند تا براي خود پادشاهي بگزينند، نزد هد هد مي روند و او به مرغان ميگويد كه پادشاهي مي شناسد كه همان سيمرغ است. تصميم بر يافتن پادشاه مي شود كه براي دست يابي به او، راه سختي را بايد بپيمايند، و در آخر سي مرغ باقي مي مانند ؛ در حقيقت سيمرغ، همان سي مرغِ باقي مانده هستند.
+در اين پروژه، اعضا، نماد سيمرغ هستند چراكه با توجه به هدف از ساخت بازي، در اين راه چالش هاي بسياري پيش پاي اعضا قرار دارد. 
+و اميد است در پايان پروژه نتيجه ي مطلوبي به دست آوريم.
+
+							
+						</p>
+					<article class="col-md-4 col-xs-4">
+						<img src="img/ld1.jpg" alt="">
+					</article>
+					<article class="col-md-4 col-xs-4">
+						<img src="img/ld2.jpg" alt="">
+					</article>
+					<article class="col-md-4 col-xs-4">
+						<img src="img/ld3.jpg" alt="">
+					</article>
+				</section>
+			</div>
+			<div class="row">
+				<section class="col-md-12 col-xs-12">
+					<article  class="col-md-8 col-xs-8" id="chs1">
+						<h2>درباره ي ما</h2>
+						<p>گروهي از دانشجويان نرم افزار دانشگاه تهران مركز گرد هم آمده ايم تا در قالب يك پروژه،  بازي درون خطي (inline game) ساده اي را در اختيار مخاطبان قرار دهيم.</p>
+					</article>
+					<article  class="col-md-4 col-xs-4" id="chs2">
+						<img src="img/anjoman-pic.jpg" alt="">
+					</article>
+				</section>
+			</div>
+			<div class="row">
+				<section class="col-md-12 col-xs-12">
+					<h2>اعضای پروژه</h2>
+					<figure class="col-md-4 col-xs-6">	
+					<img src="img/hossein.jpg">
+					<figcaption>توسعه دهنده رابط کاربری
+					<p>حسین دیندار</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/mhnabi.jpg">
+					<figcaption>توسعه دهنده نرم افزار
+					<p>محمد حسین نبی</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/sina.jpg">
+					<figcaption>مدیر تحقیق و توسعه
+					<p>سینا بختیاری</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/mahdiyeh.jpg">
+					<figcaption>توسعه دهنده نرم افزار
+					<p>مهدیه علییاری</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/javad.jpg">
+					<figcaption>موسس
+					<p>جواد ارجمندی</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/reza.jpg">
+					<figcaption>مدیر سیستم
+					<p>رضا شالباف زاده</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/yalda.jpg">
+					<figcaption>طراح و گرافیست
+					<p>یلدا</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/pouya.jpg">
+					<figcaption>طراح و توسعه دهنده بازی
+					<p>پویا مهربابک</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/mhzadeabbas.jpg">
+					<figcaption>طراح و توسعه دهنده بازی
+					<p>محد حسین زاده عباس</p>
+					</figcaption>
+					</figure>
+					<figure class="col-md-4 col-xs-6">
+					<img src="img/elmira.jpg">
+					<figcaption>مدیر اجرایی
+					<p>المیرا فاجاردو</p>
+					</figcaption>
+					</figure>
+				</section>
+			</div>
+
+			<div class="row">
+				<footer class="col-md-12 col-xs-12">
+					<p class="col-md-12 col-xs-12">ایجاد شده با  <i class="fa fa-heart"></i>  توسط بنیاد سیمرغ 1395</p>
+				</footer>
+			</div>
+</div>
+
+
+		<div id="landon" class="modal fade" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close glyphicon glyphicon-remove" data-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p style="font-size:26px;"><img src="img/simorgh-modal.jpg" alt="Dahlia Landon." class="img-responsive pull-left">
+                        شماره تماس : 51452356
+                        <br>
+                        ایمیل : hosseind2017@gmail.com
+                        <br>
+                        کانال تلگرام : https: //telegram.me/cactb
+                        <br>
+                        اینستاگرام ما : Cactb@
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-danger" data-dismiss="modal">بستن</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<!-- javascript -->
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
